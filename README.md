@@ -1,4 +1,4 @@
-#Auto clicker
+# Auto clicker
 Simple auto clicker that control the mouse directly using pynput
 
 way to improve
